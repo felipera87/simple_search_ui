@@ -1,5 +1,5 @@
 # What is this project?
-This is the fronend part of a task assignment to build an autocomplete input, it uses the backend as API so it needs to be running for it to work. Not much to talk about here, it's a simple autocomplete input component with a debounce time to avoid request abuse. There are some elements just used just for better presentation, but others are based on the possibility for this project to grow and keep a good maintainability.
+This is the frontend part of a task assignment to build an autocomplete input, it uses the [backend](https://github.com/felipera87/simple_search_api) as API so it needs to be running for it to work. Not much to talk about here, it's a simple autocomplete input component with a debounce time to avoid request abuse. There are some elements just used just for better presentation, but others are based on the possibility for this project to grow and keep a good maintainability.
 
 # How to start this application
 The project doesn't have a local development server (like json-server) so it needs the backend up and running.
